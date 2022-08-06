@@ -1,2 +1,2 @@
-# project flexbox DIO
+# Project Flexbox by DIO
 
